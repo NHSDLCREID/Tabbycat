@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-24 07:48+1000\n"
-"PO-Revision-Date: 2024-06-25 13:37\n"
+"PO-Revision-Date: 2024-06-25 15:35\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -224,20 +224,20 @@ msgstr "dibattito"
 
 #: draw/models.py
 msgid "debates"
-msgstr ""
+msgstr "dibattiti"
 
 #. Translators: This is appended to a list of teams, e.g. "Auckland
 #. 1, Vic Wellington 1 (sides not confirmed)". Mind the leading
 #. space.
 #: draw/models.py
 msgid " (sides not confirmed)"
-msgstr ""
+msgstr " (side non confermati)"
 
 #. Translators: This goes between teams in a debate, e.g. "Auckland 1
 #. vs Vic Wellington 1". Mind the leading and trailing spaces.
 #: draw/models.py
 msgid " vs "
-msgstr ""
+msgstr " vs "
 
 #: draw/models.py
 msgid "team"
@@ -245,95 +245,96 @@ msgstr "squadra"
 
 #: draw/models.py
 msgid "side sequence"
-msgstr ""
+msgstr "sequenza side"
 
 #: draw/models.py
 msgid "debate team"
-msgstr ""
+msgstr "team di dibattito"
 
 #: draw/models.py
 msgid "debate teams"
-msgstr ""
+msgstr "team di dibattito"
 
 #: draw/models.py
 #, python-format
 msgid "placed %(place)s"
-msgstr ""
+msgstr "posizionato %(place)s"
 
 #: draw/models.py
 msgid "result unknown"
-msgstr ""
+msgstr "risultato sconosciuto"
 
 #: draw/models.py
 msgid "won"
-msgstr ""
+msgstr "vinto"
 
 #: draw/models.py
 msgid "lost"
-msgstr ""
+msgstr "perso"
 
 #: draw/models.py
 #, python-format
 msgid "Team %d"
-msgstr ""
+msgstr "Squadra %d"
 
 #: draw/models.py
 msgid "team side allocation"
-msgstr ""
+msgstr "allocazione side squadra"
 
 #: draw/models.py
 msgid "team side allocations"
-msgstr ""
+msgstr "allocazione side squadra"
 
 #. Translators: e.g. "Affirmative: Rank", "Government: Draw strength",
 #. "Opening government: Total speaker score", "Closing opposition: Number of firsts"
 #: draw/tables.py
 #, python-format
 msgid "%(side)s: %(metric)s"
-msgstr ""
+msgstr "%(side)s: %(metric)s"
 
 #: draw/tables.py
 msgid "Bye"
-msgstr ""
+msgstr "Ciao"
 
 #: draw/tables.py
 #, python-format
 msgid "Team %(num)d"
-msgstr ""
+msgstr "Squadra %(num)d"
 
 #: draw/tables.py
 msgid "Room rank of this debate"
-msgstr ""
+msgstr "Rango aula di questo dibattito"
 
 #: draw/tables.py
 msgid "Bracket of this debate"
-msgstr ""
+msgstr "Ramo di questo dibattito"
 
 #: draw/tables.py
 msgid "side history<br>\n"
 "(number of times the team has been on each side before this round)"
-msgstr ""
+msgstr "cronologia side<br>\n"
+"(numero di volte che la squadra è stata in ogni side prima di questo round)"
 
 #. Translators: Abbreviation for "side history"
 #: draw/tables.py
 msgid "SH"
-msgstr ""
+msgstr "CS"
 
 #: draw/tables.py
 msgid "Went from balanced to imbalanced"
-msgstr ""
+msgstr "Andato da equilibrato a squilibrato"
 
 #: draw/tables.py
 msgid "Went from imbalanced to balanced"
-msgstr ""
+msgstr "Andato da squilibrato a equilibrato"
 
 #: draw/tables.py
 msgid "Best improvement possible, still imbalanced"
-msgstr ""
+msgstr "Miglioramento al massimo possibile, ancora squilibrato"
 
 #: draw/tables.py
 msgid "Was imbalanced and still imbalanced"
-msgstr ""
+msgstr "Era squilibrato e lo è ancora"
 
 #: draw/tables.py
 msgid "No metrics in the team standings precedence"
@@ -591,23 +592,23 @@ msgstr ""
 
 #: draw/templates/draw_display_admin.html
 msgid "You have not generated a draw for this round yet. There is nothing to release."
-msgstr ""
+msgstr "Non hai ancora generato un sorteggio per questo round. Non c'è nulla da rilasciare."
 
 #: draw/templates/draw_display_admin.html
 msgid "The draw for this round is still in a draft state. Confirm the draw before releasing it."
-msgstr ""
+msgstr "Il sorteggio per questo round è ancora in stato di bozza. Confermare il sorteggio prima di rilasciarlo."
 
 #: draw/templates/draw_display_admin.html
 msgid "Unrelease draw to public"
-msgstr ""
+msgstr "Disattiva il rilascio del sorteggio al pubblico"
 
 #: draw/templates/draw_display_admin.html
 msgid "The draw has been released publicly."
-msgstr ""
+msgstr "Il sorteggio è stato rilasciato pubblicamente."
 
 #: draw/templates/draw_display_admin.html
 msgid "View public draw page"
-msgstr ""
+msgstr "Visualizza pagina pubblica del draw"
 
 #: draw/templates/draw_display_admin.html
 #, python-format

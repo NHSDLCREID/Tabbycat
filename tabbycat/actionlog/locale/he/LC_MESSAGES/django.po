@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-24 07:48+1000\n"
-"PO-Revision-Date: 2024-06-25 12:12\n"
+"PO-Revision-Date: 2024-06-25 13:37\n"
 "Last-Translator: \n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: actionlog/models.py
 msgid "Auto-allocated adjudicators"
-msgstr ""
+msgstr "שופטים שובצו אוטומטית"
 
 #: actionlog/models.py
 msgid "Saved adjudicator allocation"
@@ -47,19 +47,19 @@ msgstr "הקצאת שופט נשמרה"
 
 #: actionlog/models.py
 msgid "Edited adjudicators availability"
-msgstr ""
+msgstr "עריכת זמינות שופטים"
 
 #: actionlog/models.py
 msgid "Edited availability"
-msgstr ""
+msgstr "זמינות נערכה"
 
 #: actionlog/models.py
 msgid "Edited teams availability"
-msgstr ""
+msgstr "זמינות קבוצות נערכה"
 
 #: actionlog/models.py
 msgid "Edited room availability"
-msgstr ""
+msgstr "זמינות חדרים נערכה"
 
 #: actionlog/models.py
 msgid "Checked in ballot set"
